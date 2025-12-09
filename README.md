@@ -1,5 +1,5 @@
-![vinit.88 banner](./vinit_banner_1200x400.png)
-## Hi there 👋
+![vinit.88 banner](./vinitx88.png)
+
 
 <!--
 **vinitx88/vinitx88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
