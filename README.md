@@ -1,4 +1,4 @@
-![vinit.88 banner](./vinitx88.png)
+![vinit.88 banner](./vinitx88_banner.png)
 ## Hi there 👋
 
 <!--
